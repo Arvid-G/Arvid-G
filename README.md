@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello 
 
+I am Arvid, currently studying physics in Berlin (Germany).
 <!--
 **Arvid-G/Arvid-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
